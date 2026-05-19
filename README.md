@@ -1,17 +1,14 @@
-Overview
-
+# Overview:
 The Smart Hospital Analytics & Performance Dashboard is a data analytics project that focuses on analyzing hospital operations and patient data through an interactive dashboard.
-
 The project transforms raw healthcare data into meaningful insights to help improve decision-making, operational efficiency, and patient care.
-
-🎯 Objectives
+# Objectives:
 Analyze hospital performance metrics
 Track patient admissions and readmissions
 Evaluate treatment cost and length of stay
 Identify trends across departments and patient conditions
 Build an interactive dashboard for better insights
-📊 Dashboard Features
-🔹 Key Metrics
+# Dashboard Features:
+Key Metrics
 Total Admissions: 30,000
 Total Patients: 12,090
 Average Treatment Cost
@@ -19,13 +16,13 @@ Readmission Rate
 Average Length of Stay
 Mortality Rate
 Bed Occupancy Rate
-🔹 Analysis
-📈 Monthly admissions trend (Time Series Analysis)
-🏥 Department-wise readmission analysis
-🧬 Patient segmentation (Age & Gender)
-🦠 Chronic condition analysis (Diabetes, Hypertension, etc.)
-💰 Revenue and insurance-based insights
-🔹 Filters
+# Analysis:
+Monthly admissions trend (Time Series Analysis)
+Department-wise readmission analysis
+Patient segmentation (Age & Gender)
+Chronic condition analysis (Diabetes, Hypertension, etc.)
+Revenue and insurance-based insights
+# Filters
 Hospital Name
 Department
 Doctor
