@@ -10,7 +10,7 @@ Developed an end-to-end analytics workflow that includes:
 - Data preprocessing and cleaning
 - Exploratory data analysis (EDA)
 - Interactive dashboard development
-The final output is a Power BI dashboard that enables users to explore hospital data dynamically.
+- The final output is a Power BI dashboard that enables users to explore hospital data dynamically.
 # Dashboard Overview
 The dashboard provides insights into:
 - Patient Metrics: Total admissions, total patients
@@ -19,7 +19,7 @@ The dashboard provides insights into:
 - Financial Metrics: Revenue and treatment cost
 - Segmentation: Age group, gender, chronic conditions
 - Department Analysis: Performance across departments
-Interactive filters allow users to drill down by hospital, department, doctor, insurance plan, gender, and age group.
+- Interactive filters allow users to drill down by hospital, department, doctor, insurance plan, gender, and age group.
 
 <img width="599" height="337" alt="Screenshot 2026-05-19 085220" src="https://github.com/user-attachments/assets/818c1dd4-8e56-456c-944a-cdce36898c90" />
 
